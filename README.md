@@ -5,7 +5,7 @@ This is the code for the paper named Multi-Receiver Anonymous Singcryption for C
 2.Code Running
 An example: python main.py --t=2 --n=10 --num=5 --theta=1 <br>
 Attribute number: t <br>
-real receiver number: n <br>
-max receiver number: num <br>
+Max receiver number: n <br>
+Real receiver number: num <br>
 Attribute discolse number: theta <br>
 Restriction: theta<=t and num<=n <br>
